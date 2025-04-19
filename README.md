@@ -1,7 +1,7 @@
 # quiz app
 **Here is a quiz website with progress bar made with vailla js for movie enthusiasts**
 
-![weather_app](https://github.com/user-attachments/assets/6308bd71-c114-49e3-a545-eb92bd4b73fd)
+![quiz_app](![Image](https://github.com/user-attachments/assets/e9bad9e7-df8d-488d-b769-7eefdc3bafc8))
 - [Demo Project](https://nima-frontend.github.io/quiz-app/)
 - Developed by Nima Pourdad
 - Created - 2025-20-4
